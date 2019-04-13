@@ -119,7 +119,23 @@ INSERT INTO `student` (`sid`, `name`, `rollno`) VALUES
 (6, 'parshavi', '106'),
 (7, 'khushboo', '107'),
 (8, 'Nayan', '108'),
-(9, 'Rishika', '109');
+(9, 'Rishika', '109'),
+(10, 'Naina', '110'),
+(11, 'Nimisha', '111'),
+(12, 'Harshit', '112'),
+(13, 'Harsha', '113'),
+(14, 'Harit', '114'),
+(15, 'Rahul', '115'),
+(16, 'Nikita', '116'),
+(17, 'Devyani', '117'),
+(18, 'Dheeraj', '118'),
+(19, 'Dhairya', '119'),
+(20, 'Bhavesh', '120'),
+(21, 'Swati', '121'),
+(22, 'Tanishka', '122'),
+(23, 'Rudra', '123'),
+(24, 'Roopin', '124')
+;
 
 -- --------------------------------------------------------
 
